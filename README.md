@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandar Slavov</h1>
 <h3 align="center">A passionate full-stack developer and ML enthusiast from Bulgaria</h3>
-![alt text](readmeBanner.png)
+<img src="https://github.com/Slavov88/Slavov88/blob/main/readmeBanner.png" width="1450" title="hover text">
+
 - 🔭 I’m currently working on **LearnLogic AI**
 
 - 🌱 I’m currently learning **ML and Physics, Maths**
